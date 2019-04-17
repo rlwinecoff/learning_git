@@ -7,7 +7,7 @@
 git config --global user.name "Ruth Winecoff"
 
 # Set email address
-# This does not need to be the email associated with GitHub account
+# This DOES NEED to be the email associated with GitHub account
 git config --global user.email "rlwinecoff@gmail.com"
 
 # Optionally, can set up an SSH key for GitHub so that don't have to enter
