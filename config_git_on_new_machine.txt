@@ -1,0 +1,14 @@
+# Configure `git` on machine (only needs to be done once)
+
+# Do this in Git Bash if Windows, Terminal if Mac
+
+# Set name to appear alongside commits
+# This does not need to be GitHub username
+git config --global user.name "Ruth Winecoff"
+
+# Set email address
+# This does not need to be the email associated with GitHub account
+git config --global user.email "rlwinecoff@gmail.com"
+
+# Optionally, can set up an SSH key for GitHub so that don't have to enter
+# pw each time push to GitHub. Go to GitHub Help.

@@ -1,0 +1,19 @@
+################################################### Setting up a git project
+
+# Navigate to desired parent directory
+
+# Make a project directory
+mkdir learning_git
+
+# Change to just-created directory
+cd learning_git
+
+# Initialize a new repository inside the folder
+git init
+
+# Won't be able to see the repo--it's a hidden folder called .Git
+# Can see it by...
+ls -a
+
+# Don't put one repo inside of another!
+# Don't put a repo inside of a shared folder managed by Box!
